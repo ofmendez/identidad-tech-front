@@ -7,12 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        blueAvi: 'var(--blueAvi)',
-        pinkAvi: ' var(--pinkAvi)',
-        linksAvi: 'var(--linksAvi)',
-        buttonsAvi: 'var(--buttonsAvi)',
-        titlesAvi: 'var(--titlesAvi)',
-        linksMenuAvi: 'var(--linksMenuAvi)',
+        yellowItech: ' var(--yellowItech)',
+        buttonsItech: 'var(--buttonsItech)',
+        titlesItech: 'var(--titlesItech)',
       },
     },
   },
