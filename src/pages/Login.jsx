@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '@src/context/AuthProvider.jsx';
 import LayoutLogin from '@src/layouts/LayoutLogin.jsx';
 import { tryLogin } from '@src/hooks/Login.jsx';
-import phone from '@img/default.jpg';
+import phone from '@img/default.webp';
 
 function Login () {
   const navigate = useNavigate();
